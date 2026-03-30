@@ -95,7 +95,7 @@ Revenue, churn, product & support analytics in one place.
 | Total MRR | $11.3M | Executive Overview |
 | Total ARR | $136.1M | Executive Overview |
 | Churn Rate | 22% | Executive Overview |
-| Avg Seats | 21 | Executive Overview |
+| Avg Seats | 20 | Executive Overview |
 | Churned Customers | 110 | Churn Analysis |
 | Trial Users | 97 | Churn Analysis |
 | Trial Conversion Rate | 74% | Churn Analysis |
