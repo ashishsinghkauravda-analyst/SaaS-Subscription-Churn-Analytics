@@ -149,7 +149,7 @@ SaaS-Subscriptions-And-Churn-Analytics-Dashboard/
 
 ## Data Pipeline
 
-**1️. Data Cleaning (Python)**
+**1. Data Cleaning (Python)**
 
 Removed duplicates
 
@@ -159,7 +159,7 @@ Converted date formats
 
 Standardized categorical fields
 
-**2️. Data Modeling (PostgreSQL)**
+**2. Data Modeling (PostgreSQL)**
 
 Created structured tables
 
@@ -169,7 +169,7 @@ Performed joins across multiple tables
 
 Applied aggregations for business metrics
 
-**3️. Visualization (Power BI)**
+**3. Visualization (Power BI)**
 
 Built interactive dashboards
 
